@@ -1,0 +1,87 @@
+INFO main org.apache.hadoop.mapred.JobClient -     /_hadoopBsp/job_local1251045707_0001/_haltComputation=0
+INFO main org.apache.hadoop.mapred.JobClient -   Partitioning Counters
+INFO main org.apache.hadoop.mapred.JobClient -     Vertex/Edge Balance Rate (x1000)=1018
+INFO main org.apache.hadoop.mapred.JobClient -     Migrations=2870773
+INFO main org.apache.hadoop.mapred.JobClient -     Iterations=49
+INFO main org.apache.hadoop.mapred.JobClient -     Edge Cut Rate (%)=47
+INFO main org.apache.hadoop.mapred.JobClient -   Zookeeper server:port
+INFO main org.apache.hadoop.mapred.JobClient -     vm-01:22181=0
+INFO main org.apache.hadoop.mapred.JobClient -   Giraph Timers
+INFO main org.apache.hadoop.mapred.JobClient -     Superstep 36 VertexMigration (ms)=10797
+INFO main org.apache.hadoop.mapred.JobClient -     Superstep 31 VertexMigration (ms)=11054
+INFO main org.apache.hadoop.mapred.JobClient -     Superstep 17 VertexMigration (ms)=11450
+INFO main org.apache.hadoop.mapred.JobClient -     Superstep 12 VertexMigration (ms)=11256
+INFO main org.apache.hadoop.mapred.JobClient -     Superstep 46 VertexMigration (ms)=11081
+INFO main org.apache.hadoop.mapred.JobClient -     Superstep 41 VertexMigration (ms)=10882
+INFO main org.apache.hadoop.mapred.JobClient -     Superstep 1 ConverterUpdateEdges (ms)=609
+INFO main org.apache.hadoop.mapred.JobClient -     Superstep 22 VertexMigration (ms)=11282
+INFO main org.apache.hadoop.mapred.JobClient -     Superstep 13 VertexMigration (ms)=11139
+INFO main org.apache.hadoop.mapred.JobClient -     Input superstep (ms)=3883
+INFO main org.apache.hadoop.mapred.JobClient -     Superstep 9 VertexMigration (ms)=11939
+INFO main org.apache.hadoop.mapred.JobClient -     Superstep 4 VertexMigration (ms)=12489
+INFO main org.apache.hadoop.mapred.JobClient -     Superstep 27 VertexMigration (ms)=10910
+INFO main org.apache.hadoop.mapred.JobClient -     Superstep 32 VertexMigration (ms)=10694
+INFO main org.apache.hadoop.mapred.JobClient -     Superstep 5 VertexMigration (ms)=12687
+INFO main org.apache.hadoop.mapred.JobClient -     Superstep 25 VertexMigration (ms)=11334
+INFO main org.apache.hadoop.mapred.JobClient -     Superstep 11 VertexMigration (ms)=11986
+INFO main org.apache.hadoop.mapred.JobClient -     Superstep 18 VertexMigration (ms)=10642
+INFO main org.apache.hadoop.mapred.JobClient -     Superstep 8 VertexMigration (ms)=11606
+INFO main org.apache.hadoop.mapred.JobClient -     Superstep 14 VertexMigration (ms)=11511
+INFO main org.apache.hadoop.mapred.JobClient -     Superstep 38 VertexMigration (ms)=11057
+INFO main org.apache.hadoop.mapred.JobClient -     Superstep 42 VertexMigration (ms)=11543
+INFO main org.apache.hadoop.mapred.JobClient -     Superstep 0 ConverterPropagate (ms)=1809
+INFO main org.apache.hadoop.mapred.JobClient -     Superstep 45 VertexMigration (ms)=10902
+INFO main org.apache.hadoop.mapred.JobClient -     Superstep 35 VertexMigration (ms)=10691
+INFO main org.apache.hadoop.mapred.JobClient -     Total (ms)=533646
+INFO main org.apache.hadoop.mapred.JobClient -     Superstep 28 VertexMigration (ms)=10912
+INFO main org.apache.hadoop.mapred.JobClient -     Superstep 21 VertexMigration (ms)=11586
+INFO main org.apache.hadoop.mapred.JobClient -     Superstep 24 VertexMigration (ms)=10712
+INFO main org.apache.hadoop.mapred.JobClient -     Superstep 6 VertexMigration (ms)=11956
+INFO main org.apache.hadoop.mapred.JobClient -     Superstep 29 VertexMigration (ms)=11100
+INFO main org.apache.hadoop.mapred.JobClient -     Superstep 48 VertexMigration (ms)=11615
+INFO main org.apache.hadoop.mapred.JobClient -     Superstep 43 VertexMigration (ms)=10644
+INFO main org.apache.hadoop.mapred.JobClient -     Superstep 39 VertexMigration (ms)=11808
+INFO main org.apache.hadoop.mapred.JobClient -     Initialize (ms)=451
+INFO main org.apache.hadoop.mapred.JobClient -     Superstep 10 VertexMigration (ms)=11406
+INFO main org.apache.hadoop.mapred.JobClient -     Superstep 20 VertexMigration (ms)=11020
+INFO main org.apache.hadoop.mapred.JobClient -     Superstep 34 VertexMigration (ms)=10633
+INFO main org.apache.hadoop.mapred.JobClient -     Superstep 15 VertexMigration (ms)=10905
+INFO main org.apache.hadoop.mapred.JobClient -     Superstep 16 VertexMigration (ms)=11100
+INFO main org.apache.hadoop.mapred.JobClient -     Superstep 44 VertexMigration (ms)=10653
+INFO main org.apache.hadoop.mapred.JobClient -     Superstep 23 VertexMigration (ms)=10941
+INFO main org.apache.hadoop.mapred.JobClient -     Shutdown (ms)=8864
+INFO main org.apache.hadoop.mapred.JobClient -     Superstep 30 VertexMigration (ms)=10826
+INFO main org.apache.hadoop.mapred.JobClient -     Superstep 7 VertexMigration (ms)=11804
+INFO main org.apache.hadoop.mapred.JobClient -     Superstep 37 VertexMigration (ms)=10762
+INFO main org.apache.hadoop.mapred.JobClient -     Superstep 3 VertexMigration (ms)=12721
+INFO main org.apache.hadoop.mapred.JobClient -     Superstep 2 InitPartition (ms)=1441
+INFO main org.apache.hadoop.mapred.JobClient -     Superstep 19 VertexMigration (ms)=10954
+INFO main org.apache.hadoop.mapred.JobClient -     Superstep 26 VertexMigration (ms)=10656
+INFO main org.apache.hadoop.mapred.JobClient -     Setup (ms)=33
+INFO main org.apache.hadoop.mapred.JobClient -     Superstep 40 VertexMigration (ms)=11127
+INFO main org.apache.hadoop.mapred.JobClient -     Superstep 47 VertexMigration (ms)=10981
+INFO main org.apache.hadoop.mapred.JobClient -     Superstep 33 VertexMigration (ms)=11246
+INFO main org.apache.hadoop.mapred.JobClient -   File Input Format Counters 
+INFO main org.apache.hadoop.mapred.JobClient -     Bytes Read=0
+INFO main org.apache.hadoop.mapred.JobClient -   Zookeeper base path
+INFO main org.apache.hadoop.mapred.JobClient -     /_hadoopBsp/job_local1251045707_0001=0
+INFO main org.apache.hadoop.mapred.JobClient -   Giraph Stats
+INFO main org.apache.hadoop.mapred.JobClient -     Aggregate bytes stored to local disks (out-of-core)=0
+INFO main org.apache.hadoop.mapred.JobClient -     Aggregate finished vertices=0
+INFO main org.apache.hadoop.mapred.JobClient -     Aggregate edges=1900654
+INFO main org.apache.hadoop.mapred.JobClient -     Current master task partition=0
+INFO main org.apache.hadoop.mapred.JobClient -     Superstep=49
+INFO main org.apache.hadoop.mapred.JobClient -     Aggregate sent message bytes=478664651
+INFO main org.apache.hadoop.mapred.JobClient -     Aggregate vertices=196591
+INFO main org.apache.hadoop.mapred.JobClient -     Aggregate bytes loaded from local disks (out-of-core)=0
+INFO main org.apache.hadoop.mapred.JobClient -     Sent messages=366997
+INFO main org.apache.hadoop.mapred.JobClient -     Sent message bytes=6606271
+INFO main org.apache.hadoop.mapred.JobClient -     Current workers=1
+INFO main org.apache.hadoop.mapred.JobClient -     Last checkpointed superstep=0
+INFO main org.apache.hadoop.mapred.JobClient -     Aggregate sent messages=26802363
+INFO main org.apache.hadoop.mapred.JobClient -     Lowest percentage of graph in memory so far (out-of-core)=100
+INFO main org.apache.hadoop.mapred.JobClient -   FileSystemCounters
+INFO main org.apache.hadoop.mapred.JobClient -     FILE_BYTES_WRITTEN=1681123
+INFO main org.apache.hadoop.mapred.JobClient -     FILE_BYTES_READ=23734120
+INFO main org.apache.hadoop.mapred.JobClient -   File Output Format Counters 
+INFO main org.apache.hadoop.mapred.JobClient -     Bytes Written=0
